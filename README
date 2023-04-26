@@ -2,7 +2,7 @@ train:
 python main.py --config=aapm_sin_ncsnpp_gb.py --workdir=exp --mode=train --eval_folder=result
 
 test:
-python A_PCsampling_demo.py
+python PCsampling_demo.py
 
 test默认调用exp_demo下的模型
 
