@@ -6,7 +6,7 @@ def tvdenoise(f, lam, iters):
         print('Parameter lambda must be nonnegative.')
         exit(0)
 
-    dt = 0.05#0.025 #1e5 0.0001 #1e4 0.025,1.25 #5e4 0.5 0.25
+    dt = 0.0001#0.025 #1e5 0.0001 #1e4 0.025,1.25 #5e4 0.5 0.25
     #f=f.cpu().numpy()
     N = f.shape
     id1 = list(range(2, N[0]+1))
