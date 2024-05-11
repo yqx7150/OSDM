@@ -9,13 +9,13 @@ Low-dose computed tomography (CT) is crucial in clinical applications for reduci
 
 
 ## The OSDM training process
-![](./Fig.1.png)  
+![](configs/figg.png)  
    
 ## The pipeline of iterative reconstruction procedure in OSDM
-![](./Fig.2.png)  
+![](configs/figg.png)  
 
 ## Reconstruction results from 1e5 noise level using different methods. (a) The reference image (b) FBP, (c) SART-TV, (d) CNN, (e) U-Net, (f) NCSN++, and (g) OSDM.
-![](./Fig.2.png)  
+![](configs/figg.png)  
 
 ###train:
 python main.py --config=aapm_sin_ncsnpp_gb.py --workdir=exp --mode=train --eval_folder=result
