@@ -1,4 +1,4 @@
-Paper: One-sample Diffusion Modeling in Projection Domain for Low-dose CT Imaging (OSDM)
+![图片g](https://github.com/yqx7150/OSDM/assets/26964726/fc341237-b1ae-4534-8deb-2cf3c2aaa4fd)Paper: One-sample Diffusion Modeling in Projection Domain for Low-dose CT Imaging (OSDM)
 
 **Authors**: Bin Huang, Shiyu Lu, Liu Zhang, Boyu Lin, Weiwen Wu, Member, IEEE Qiegen Liu, Senior Member, IEEE
 
@@ -9,13 +9,16 @@ Low-dose computed tomography (CT) is crucial in clinical applications for reduci
 
 
 ## The OSDM training process
-![](./configs/figg.png)  
+![图片e](https://github.com/yqx7150/OSDM/assets/26964726/18d09431-9165-4b65-a76a-7613ff0e69c2)
+
    
 ## The pipeline of iterative reconstruction procedure in OSDM
-![](configs/figg.png)  
+![图片f](https://github.com/yqx7150/OSDM/assets/26964726/2255553f-b9ef-4a16-9a1b-b333d86899b7)
+
 
 ## Reconstruction results from 1e5 noise level using different methods. (a) The reference image (b) FBP, (c) SART-TV, (d) CNN, (e) U-Net, (f) NCSN++, and (g) OSDM.
-![](configs/figg.png)  
+![图片g](https://github.com/yqx7150/OSDM/assets/26964726/ae7a4585-0a3e-4646-8df1-406934f0f3d1)
+
 
 train:
 python main.py --config=aapm_sin_ncsnpp_gb.py --workdir=exp --mode=train --eval_folder=result
