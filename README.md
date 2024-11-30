@@ -49,6 +49,12 @@ vali[vali < 0] = 0
   * Generative Modeling in Sinogram Domain for Sparse-view CT Reconstruction      
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10233041)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GMSD)
 
+  * DP-MDM: Detail-Preserving MR Reconstruction via Multiple Diffusion Models  
+[<font size=5>**[Paper]**</font>](http://arxiv.org/abs/2211.13857)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DP-MDM)
+     
+  * MSDiff: Multi-Scale Diffusion Model for Ultra-Sparse View CT Reconstruction  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2405.05763)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDiff)
+    
   * Wavelet-improved score-based generative model for medical imaging  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/10288274)       
        
