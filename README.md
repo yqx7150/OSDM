@@ -18,7 +18,7 @@ Low-dose computed tomography (CT) is crucial in clinical applications for reduci
 
 ## Reconstruction results from 1e5 noise level using different methods.
 ![图片g](https://github.com/yqx7150/OSDM/assets/26964726/ae7a4585-0a3e-4646-8df1-406934f0f3d1)
-## (a) The reference image (b) FBP, (c) SART-TV, (d) CNN, (e) U-Net, (f) NCSN++, and (g) OSDM.
+## (a) GT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (b) FBP, (c) SART-TV, (d) CNN, (e) U-Net, (f) NCSN++, and (g) OSDM.
 
 train:
 python main.py --config=aapm_sin_ncsnpp_gb.py --workdir=exp --mode=train --eval_folder=result
