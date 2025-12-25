@@ -1,7 +1,9 @@
-Paper: One-sample Diffusion Modeling in Projection Domain for Low-dose CT Imaging (OSDM)
+Paper: One-sample Diffusion Modeling in Projection Domain for Low-dose CT Imaging
 
 **Authors**: Bin Huang, Shiyu Lu, Liu Zhang, Boyu Lin, Weiwen Wu, Member, IEEE Qiegen Liu, Senior Member, IEEE
-
+IEEE Transactions on Radiation and Plasma Medical Sciences, vol. 8, no. 8, pp. 902-915, Nov. 2024.    
+https://ieeexplore.ieee.org/document/10506793                  
+     
 The code and the algorithm are for non-comercial use only.
 Copyright 2023, School of Information Engineering, Nanchang University.
 
@@ -75,6 +77,9 @@ vali[vali < 0] = 0
 
   * Ordered-subsets Multi-diffusion Model for Sparse-view CT Reconstruction      
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2505.09985)
+                          
+  * Virtual-mask Informed Prior for Sparse-view Dual-Energy CT Reconstruction  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2405.05763)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDiff)
 
   * Raw_data_generation  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Raw_data_generation)
 
@@ -84,3 +89,4 @@ vali[vali < 0] = 0
 
   * Diffusion Models for Medical Imaging
 [<font size=5>**[Paper]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT) 
+
