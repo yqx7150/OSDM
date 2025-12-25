@@ -79,7 +79,7 @@ vali[vali < 0] = 0
 [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2505.09985)
                           
   * Virtual-mask Informed Prior for Sparse-view Dual-Energy CT Reconstruction  
-[<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2405.05763)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MSDiff)
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2504.07753)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/VIP-DECT)
 
   * Raw_data_generation  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Raw_data_generation)
 
@@ -89,4 +89,5 @@ vali[vali < 0] = 0
 
   * Diffusion Models for Medical Imaging
 [<font size=5>**[Paper]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT) 
+
 
